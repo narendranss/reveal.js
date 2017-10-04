@@ -14,7 +14,7 @@
   padding: 10px;
   box-sizing: border-box;
   border-radius: 10px;
-  background-color: rgba(100, 100, 100, 0.75); }
+  background-color: rgba(100, 100, 100, 0.9); }
 
 .empty .reveal .slides section {
   background-color: inherit; }
@@ -22,7 +22,7 @@
 .title {
   box-sizing: border-box;
   border-radius: 10px;
-  background-color: rgba(100, 100, 100, 0.75); }
+  background-color: rgba(100, 100, 100, 0.9); }
   .title .event {
     display: flex;
     justify-content: space-between;
